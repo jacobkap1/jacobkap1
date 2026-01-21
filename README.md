@@ -57,11 +57,6 @@
   <a href="https://beagleboard.org/black" target="_blank" title="BeagleBone Black" style="margin: 0 15px;">
     <img src="https://beagleboard.org/static/imgs/black.svg" alt="BeagleBone Black" width="50" />
   </a>
-  <img
-    src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,windows,apple"
-    style="margin-left: 15px;"
-    alt="OS and Hardware Icons"
-  />
 </div>
 
 <br /><br /><br />
