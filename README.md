@@ -55,7 +55,7 @@
 <br />
 <div align="center">
   <a href="https://beagleboard.org/black" target="_blank" title="BeagleBone Black" style="margin: 0 15px;">
-    <img src="https://beagleboard.org/static/imgs/black.svg" alt="BeagleBone Black" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BeagleBoard_Black_logo.svg/1200px-BeagleBoard_Black_logo.svg.png" alt="BeagleBone Black" width="50" />
   </a>
 </div>
 
